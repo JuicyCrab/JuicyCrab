@@ -10,10 +10,13 @@ I'm a student excited about AI/ML, data-driven projects, and how technology shap
 - Creating a positive impact with technology
 - Playing sports and traveling
   
-## Currently Working On 
-- Creating a platform called GenLearn, which is course generation website cattered for a user's difficulty and constraints.
-  The platform removes the need to scatter the web for reasources and insteads brings to you. There is an assistant at your fingertips and guraneeted credible resource retireval.
-  
+## Currently Working On
+
+- GenLearn — a personalized course-generation platform that creates curated learning paths tailored to a user's skill level, goals, time availability, and constraints.
+  - Features include an AI assistant that generates course outlines, selects and ranks credible resources, adapts difficulty over time, and produces an exportable study plan.
+  - Tech stack: FastAPI backend, PostgreSQL, Python for ML/NLP, and a React frontend.
+  - Status: MVP prototyping — building the backend APIs and initial curriculum-generation models. Looking for feedback and collaborators.
+
 ## 📚 Learning
 
 - How to create secure and clean APIs with FastAPI
@@ -30,4 +33,3 @@ I'm a student excited about AI/ML, data-driven projects, and how technology shap
 > “Building technology with a positive light—one project at a time.”  
 
 Thanks for stopping by! Feel free to check out my work, reach out, or collaborate!
-
