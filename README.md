@@ -19,8 +19,9 @@ I'm a student excited about AI/ML, data-driven projects, and how technology shap
 
 ## 📚 Learning
 
-- How to create secure and clean APIs with FastAPI
-- The underlying structures of supervised ML models
+- How to enforce API limiting/throttling with FastAPI
+- The underlying structures of Linear Regression, Polynomial Regression, and Logisitc Regression 
+- How to automate credbile resource retrieval with RAG 
 - How to build meaningful tech with a human touch
 
 ## 📫 Connect With Me
